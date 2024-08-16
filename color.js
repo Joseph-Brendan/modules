@@ -3,4 +3,9 @@ function sayMyColor(){
     return color
 }
 
-export default sayMyColor
+function sayMybrand(){
+    let brand = "design is here"
+    return brand
+}
+
+export {sayMyColor, sayMybrand}
