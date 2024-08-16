@@ -1,5 +1,6 @@
 function sayMyFavFood(){
     let food = "Pasta"
+    let drink = "Berry Juice"
     return food
 }
 
