@@ -5,6 +5,7 @@ function sayMyColor(){
 
 function sayMybrand(){
     let brand = "design is here"
+    let city = "New York"
     return brand
 }
 
